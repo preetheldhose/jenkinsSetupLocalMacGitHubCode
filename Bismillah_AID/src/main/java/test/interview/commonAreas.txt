@@ -1,0 +1,67 @@
+June 30th - July 7th 2023:
+
+common areas:
+
+A) Ace: 
+
+Java based application frameworks (API and UX) using automation tools such as Rest Assured, Selenium, Cucumber, JMock, Junit, TestNG, SoapUI and Postman.
+· Knowledge and experience with Java and / or JavaScript based development.
+· Containers and virtualization such as Docker, Kubernetes, VMware, AWS, OpenStack
+· Infrastructure automation tools such as Chef, Ansible, Puppet, Salt
+· Understands RESTful APIs
+· Database experience with SQL query
+· Experience with tools like JIRA, Subversion, GIT
+· Regression and Manual Testing
+
+Responds to and engages with multiple teams for escalated production issues and help test in development and production environment
+· Build automated testing in Selenium, Cucumber and Java for both API and UI testing.
+
+B) Citizens bank
+
+•              5+ years of working in Sr Mobile SDET capacity, including proven experience in implementing/enhancing BDD cucumber appium mobile automation framework and methodology
+
+•              4+ of expertise in implementing test automation of Rest API services using RestAssured library and httpclient RESTFul client
+
+•              6+ years of automated testing using the following – Appium driver, Selenium Webdriver, TestNG, Appium, Espresso, Java
+
+•              6+ years of experience in Java programming for BDD cucumber mobile framework with appium driver (IOS driver, Android Driver)
+
+•              Assess the current state of testing at the framework level and identify gaps to achieve the target state.
+
+•              Ensure that design for automated tests includes: ▪ Modularization for code reusability ▪ Parameterization for data-driven capability ▪ Balance between clarity and efficiency
+
+•              Automation development in Android and/or iOS, Web, API (Using Ready API tool).
+
+•              Provide consultation, share expert opinion, and provide guidance from an automation framework architecture standpoint
+
+•              Hands-on automated testing using any of the following - Selenium (Must have), Appium (Must have), XCUITest, Perfecto (Must have) for mobile test automation
+
+•              Solid background writing and executing test automation to ensure the delivery of a high-quality user experience on our mobile platforms (especially working with iOS - XCUITest is a big plus)
+
+•              Native mobile language, Swift (Nice to have)
+
+•              Expertise in developing BDD automation framework with cucumber, Gherkin for appium based mobile automation framework from ground-up using Java
+
+•              Experience in setting up automation internal (Zalenium/Default Selenium Grid) and external Grids (Using Browserstack or Sauce labs)
+
+•              Experience in auto-scaling the automation grid in a Kubernetes environment (Nice to have)
+
+•              Nice to have: Experience in setting up Grafana dashboard or Dashboards using Google Data Studio, Google big query for test automation execution
+
+•              Work experience in writing database queries in Oracle/MySQL
+
+•              Experience in the implementation and execution of automation testing and coverage that ensures the delivery of a high-quality user experience for mobile, iOS, Android, and web platforms
+
+•              Expert Experience on bitbucket/GitHub or similar code hosting platform
+
+•              Experience in Continuous Integration / Continuous Build framework
+
+•              8+ years of experience in Software Quality Engineering
+
+ 
+
+Preferred Qualifications:
+
+•              Automation Test framework tools, scripting experience using Espresso, Swift, Selenium, Node.js, Javascript, Mocha/Chai, Ruby, Kotlin, API, JSON, XML
+
+

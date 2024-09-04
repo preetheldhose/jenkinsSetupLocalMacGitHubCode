@@ -1,0 +1,53 @@
+				//System.out.println("i- values : " + ch[i]);
+			//for(int j = ch.length-1; j > 0; j--) {
+				//System.out.println("j- values : " + ch[j]);
+					//if(ch[i] == ch[j]) {
+//						count++;
+//						if(count >= previousCount) {
+//							strBuf.append(ch[i]);
+//						}
+//					}
+			//}
+			
+			
+			if(ch[i] == ch[wholeLength--]) {
+				System.out.println("ch[i] : " + ch[i]);
+				System.out.println("ch[wholeLength--] : " + ch[wholeLength]);
+				count++;
+				if(count >= previousCount) {
+					strBuf.append(ch[i]);
+				}
+				
+			}
+			
+
+
+	public String longestCommonPrefix(String[] S) {
+		if (S.length == 0) return "";
+		String prefix = S[0];
+		for (int i = 1; i < S.length; i++)
+			while (S[i].indexOf(prefix) != 0) {
+				prefix = prefix.substring(0, prefix.length() - 1);
+				if (prefix.isEmpty()) return "";
+			}        
+		return prefix;
+	}
+	public static void main(String args[]) {
+		// Your code goes here
+		Main ob = new Main();
+		String s[] = {"flower", "flow", "flight"};
+		System.out.println(ob.longestCommonPrefix(s));
+	}
+	
+	
+	{
+		String [] = {"flower", "flow", "flight"};
+		if (S.length == 0) return "";
+		String prefix = S[0];
+		for (int i = 1; i < S.length; i++)
+			while (S[i].indexOf(prefix) != 0) {
+				prefix = prefix.substring(0, prefix.length() - 1);
+				if (prefix.isEmpty()) return "";
+			}
+		System.out.println(ob.longestCommonPrefix(S));
+	}

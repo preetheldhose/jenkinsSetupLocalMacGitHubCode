@@ -1,0 +1,9 @@
+{
+    "Name": "John",
+    "Course": "doe",
+    "Subjects": [
+            "subject1: iPhone",
+            "subject2: 0123-4567-8888",
+            "subject3: 0123-4567-1232"
+    ]
+}

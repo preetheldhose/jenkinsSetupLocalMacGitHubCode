@@ -1,0 +1,22 @@
+All link: 
+
+https://docs.databricks.com/introduction/index.html
+https://www.tutorialspoint.com/hbase/hbase_overview.htm
+https://www.google.com/search?q=hadoop+hdfs&oq=hadoop+hdfs+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTEzMTQwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=hadoop+spark&oq=hadoop+spark+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ5MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://docs.databricks.com/notebooks/index.html
+https://www.google.com/search?q=what+is+databricks+airflow+dag&oq=what+is+databricks+airflow&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRirAtIBCDkwNjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=what+is+golang&oq=what+is+golang&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0NTg4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=various+string+programming+problems+java&oq=various+string+programming+problems+java+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRirAjIKCAUQIRgWGB0YHtIBCTEyOTkzajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+
+https://javahungry.blogspot.com/2014/02/algorithm-for-combinations-of-string-java-code-with-example.html
+https://www.javatpoint.com/program-to-find-the-duplicate-characters-in-a-string
+https://www.tutorialspoint.com/java-program-to-find-all-duplicate-characters-in-a-string
+https://www.google.com/search?q=java+selenium+methods+programming+interview+questions&oq=java+selenium+methods+programming+interview+questions&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTE3ODc1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+https://www.interviewbit.com/selenium-interview-questions/
+https://www.simplilearn.com/tutorials/selenium-tutorial/selenium-interview-questions-and-answers
+https://www.tutorialspoint.com/check-that-the-element-is-clickable-or-not-in-selenium-webdriver
+https://www.browserstack.com/guide/maximize-chrome-window-in-selenium
+https://www.guru99.com/xpath-selenium.html
+
